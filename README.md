@@ -31,6 +31,8 @@ Este projeto contém testes automatizados para a tela de login do sistema SIGAA 
    ```
 
 3. **Verifique o Caminho do ChromeDriver**:
+
+   Certifique-se de que o nome de usuário e senha estão corretos dentro de teste_sigaa.py
    Certifique-se de que o arquivo `chromedriver.exe` está na pasta raiz do projeto.
 
 ## Executando os Testes
@@ -43,8 +45,3 @@ Este projeto contém testes automatizados para a tela de login do sistema SIGAA 
 ## Detalhes do Teste
 
 O script `teste_sigaa.py` contém um teste para verificar o login no sistema SIGAA da UFRRJ. O teste preenche os campos de usuário e senha, clica no botão de login e verifica se o login foi bem-sucedido ao procurar o elemento de logout na página pós-login.
-
-
-## Considerações Finais
-
-Certifique-se de que o nome de usuário e senha estão corretos
