@@ -22,7 +22,7 @@ Este projeto contém testes automatizados para a tela de login do sistema SIGAA 
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/arielmdc/test-selenium.git
-   cd teste-selenium
+   cd test-selenium
    ```
 
 2. **Instale as Dependências**:
