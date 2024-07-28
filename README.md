@@ -32,7 +32,7 @@ Este projeto contém testes automatizados para a tela de login do sistema SIGAA 
 
 3. **Verifique o Caminho do ChromeDriver**:
 
-   Certifique-se de que o nome de usuário e senha estão corretos dentro de teste_sigaa.py
+   Certifique-se de que o nome de usuário e senha estão corretos dentro de `teste_sigaa.py`
    Certifique-se de que o arquivo `chromedriver.exe` está na pasta raiz do projeto.
 
 ## Executando os Testes
